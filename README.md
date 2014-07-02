@@ -1,0 +1,1 @@
+deprecated in favor of https://github.com/jlongster/sweetjs-loader
